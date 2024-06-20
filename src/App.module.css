@@ -1,0 +1,18 @@
+.appMainCont{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+width: 100vw;
+  
+  text-align: center;
+  height: 100vh;
+}
+
+.content{
+  padding-left: 0px;
+  list-style-type: none;
+  border: 1px solid white;
+  width:50%;
+  height: 80vh;
+}

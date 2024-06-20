@@ -1,0 +1,16 @@
+.item{
+   
+    margin: 7px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px;
+    color: white;
+    font-size: 20px;
+    font-family: 'roboto';
+    border: 1px solid white;
+}
+
+.itemPara{
+    width: 30%;
+}
